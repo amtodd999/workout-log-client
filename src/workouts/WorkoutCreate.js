@@ -40,9 +40,6 @@ const WorkoutCreate = (props) => {
                 <option  value="Weight">Weight</option>
                 <option  value="Distance">Distance</option>
                 </Input>
-                {/* <option  value="Time">Time</option>
-                <option  value="Weight">Weight</option>
-                <option  value="Distance">Distance</option> */}
             </FormGroup>
             <FormGroup>
                 <Label htmlFor="result" />
